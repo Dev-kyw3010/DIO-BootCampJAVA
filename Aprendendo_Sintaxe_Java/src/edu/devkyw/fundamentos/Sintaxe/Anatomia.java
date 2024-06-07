@@ -1,4 +1,4 @@
-package edu.devkyw.fundamentos.sintaxe;
+package edu.devkyw.fundamentos.Sintaxe;
 
 public class Anatomia {
     
